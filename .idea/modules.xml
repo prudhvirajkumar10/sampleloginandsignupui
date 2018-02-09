@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SampleRegistration.iml" filepath="$PROJECT_DIR$/SampleRegistration.iml" />
+      <module fileurl="file://C:\Users\Prudhvi Raj Kumar\StudioProjects\sampleloginandsignupui\SampleRegistration.iml" filepath="C:\Users\Prudhvi Raj Kumar\StudioProjects\sampleloginandsignupui\SampleRegistration.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Prudhvi Raj Kumar\StudioProjects\sampleloginandsignupui\app\app.iml" filepath="C:\Users\Prudhvi Raj Kumar\StudioProjects\sampleloginandsignupui\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleloginandsignupui.iml" filepath="$PROJECT_DIR$/sampleloginandsignupui.iml" />
     </modules>
   </component>
 </project>
